@@ -1,3 +1,14 @@
+# eclipse
+.settings/*
+.project
+.classpath
+
+# git
+.gitignore
+
+# maven
+target/*
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
